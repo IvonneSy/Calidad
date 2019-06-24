@@ -1,0 +1,49 @@
+{ "categories": [
+	{
+		"id": 1,
+		"name": "Jardines del Recuerdo",
+		"sublevels": [
+			{
+				"id": 1,
+				"name": "Gaseosas",
+				"sublevels": [
+					{
+						"id": 2,
+						"name": "Con azúcar"
+					},
+					{
+						"id": 3,
+						"name": "Sin azúcar"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "En Municipales",
+		"sublevels": [
+			{
+				"id": 4,
+				"name": "Fake 1",
+				"sublevels": [
+					{
+						"id": 5,
+						"name": "Fake 2"
+					},
+					{
+						"id": 6,
+						"name": "Fake 3",
+						"sublevels": [
+							{
+								"id": 7,
+								"name": "Fake 4"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
+}
